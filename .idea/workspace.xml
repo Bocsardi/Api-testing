@@ -7,6 +7,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="27Z5YmlJaS6EDbHvhKUwNrxkfBP" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -15,6 +18,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -40,5 +47,19 @@
       <updated>1649514817736</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="72" key="#Project_Structure" timestamp="1649516508215">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1649516508215" />
+    <state x="549" y="131" key="FileChooserDialogImpl" timestamp="1649516473764">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="131" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1649516473764" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1649516431699">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1649516431699" />
   </component>
 </project>
